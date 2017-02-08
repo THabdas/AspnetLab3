@@ -25,7 +25,7 @@ namespace ASPLab3
         public string ContactName { get; set; }
 
         [StringLength(30, ErrorMessage = "ContactCity must be 30 characters or less")]
-        public string ContactCity { get; set; }
+        public string ContactTitle { get; set; }
 
         [StringLength(30, ErrorMessage = "City must be 30 characters or less")]
         public string City { get; set; }
