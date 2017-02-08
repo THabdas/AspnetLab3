@@ -21,12 +21,14 @@
         <th>
             @Html.DisplayNameFor(model => model.ContactTitle)
         </th>
-        <th>
+        <!--<th>
             @Html.DisplayNameFor(model => model.Address)
         </th>
+            -->
         <th>
             @Html.DisplayNameFor(model => model.City)
         </th>
+        <!--
         <th>
             @Html.DisplayNameFor(model => model.Region)
         </th>
@@ -42,6 +44,7 @@
         <th>
             @Html.DisplayNameFor(model => model.Fax)
         </th>
+            -->
         <th></th>
     </tr>
 
@@ -56,12 +59,15 @@
         <td>
             @Html.DisplayFor(modelItem => item.ContactTitle)
         </td>
+        <!--
         <td>
             @Html.DisplayFor(modelItem => item.Address)
         </td>
+            -->
         <td>
             @Html.DisplayFor(modelItem => item.City)
         </td>
+        <!--
         <td>
             @Html.DisplayFor(modelItem => item.Region)
         </td>
@@ -77,6 +83,7 @@
         <td>
             @Html.DisplayFor(modelItem => item.Fax)
         </td>
+            -->
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.CustomerID }) |
             @Html.ActionLink("Details", "Details", new { id=item.CustomerID }) |
