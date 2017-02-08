@@ -85,3 +85,6 @@ E:\VSWorkspace2016\ASPLab3\ASPLab3\bin\Microsoft.Owin.Security.Twitter.xml
 E:\VSWorkspace2016\ASPLab3\ASPLab3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 E:\VSWorkspace2016\ASPLab3\ASPLab3\obj\Debug\ASPLab3.dll
 E:\VSWorkspace2016\ASPLab3\ASPLab3\obj\Debug\ASPLab3.pdb
+D:\Work\AspLab3Test\ASPLab3\obj\Debug\ASPLab3.csprojResolveAssemblyReference.cache
+D:\Work\AspLab3Test\ASPLab3\obj\Debug\ASPLab3.dll
+D:\Work\AspLab3Test\ASPLab3\obj\Debug\ASPLab3.pdb
